@@ -1,5 +1,5 @@
 export const siteConfig = {
   title: "synergetic human",
-  url: "https://alanagoyal.com",
+  url: "https://synergetichuman.com",
 };
 
